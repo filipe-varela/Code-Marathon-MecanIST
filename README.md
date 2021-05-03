@@ -1,4 +1,4 @@
 # Code-Marathon-MecanIST
 A image processing program which can change the RGB values, turn all to black and white, blurr, sharpen and make an edge detection on the image choosen by the user.
 
-The code was made by `Filipe Varela` and `Vasco Ferreira`.
+The code was made by [Filipe Varela](https://github.com/filipe-varela) and [Vasco Ferreira](https://github.com/vahzco).
